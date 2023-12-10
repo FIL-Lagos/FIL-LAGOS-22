@@ -239,6 +239,22 @@ collections:
             label: Text
             name: '15309273'
             widget: string
+          - hint: 'Original text: Day 1, key: 3ec208d'
+            label: Text
+            name: 3ec208d
+            widget: string
+          - hint: 'Original text: Day 2, key: 3ec208e'
+            label: Text
+            name: 3ec208e
+            widget: string
+          - hint: 'Original text: Day 3, key: 3ec208f'
+            label: Text
+            name: 3ec208f
+            widget: string
+          - hint: 'Original text: Workshop, Challenge 1 (March 31st), key: 9af6acc'
+            label: Text
+            name: 9af6acc
+            widget: string
           - hint: 'Original text: DATE, key: 1fe7ae'
             label: Text
             name: 1fe7ae
@@ -502,19 +518,6 @@ collections:
             default: Images
           - label: Image
             name: e17ee23
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: 615ff74e
             widget: object
             fields:
               - name: url
